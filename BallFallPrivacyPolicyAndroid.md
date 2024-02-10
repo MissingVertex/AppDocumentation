@@ -1,5 +1,6 @@
 **Privacy Policy**
-** Comments **
+
+**Comments**
 So below you will find an official policy that tries to be formal and so forth. But honestly it is simple; Ball Fall was developed using Unity. There are no ads, no in-app purchases, and save file is stored locally on the device.
 We have not added any code that makes any server calls or tries to read any data. However, third parties, e.g. Unity and Google services may do so and we don't have any control over that.
 Thank you for your understanding.
